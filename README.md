@@ -1,6 +1,6 @@
 # GCreate
 
-GCreate is a 2D game UI designer.
+GCreate is a 2D game UI designer. We used it to create the following mini games.
 
 ## Sample
 ### [3D Rubic cube totorial](https://fy-create.github.io/GCreate/demo/cube/)
