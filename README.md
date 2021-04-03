@@ -17,3 +17,9 @@ This is a small math division game, software randomly remove some of the numbers
 Look at a three-dimensional model from three directions, the front view is from the front to see, the top view is from top to bottom, the left view is from left to right view. According to the information provided by the three views, please mark the height of the element on the top view.
 
 这是奥数必备知识点.从3个方向看一个立体模型,前视图是从前往后看,俯视图是从上往下看,左视图是从左往右看.根据三个视图提供的信息,在俯视图上标出每一个元素的层高,全部标正确会显示3D的原始图形.
+
+
+### [Calculate 24 计算24](https://fy-create.github.io/GCreate/demo/calc24/)
+With four numbers to calculate, each number can only be used once, you can use the addition subtraction multiplication division the four operations, results for the number 24.
+
+用4个数字来计算，每个数字只能用一次，可以用加减乘除四种运算，计算出给定的数字.
