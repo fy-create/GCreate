@@ -30,3 +30,11 @@ This is a puzzle game with multiple levels. There are many crossed lines that yo
 
 这是一个解谜游戏，有多个关卡。有很多交叉的线，您需要将所有交叉的线都不相交。
 
+
+
+### [Sudoku 数独](https://fy-create.github.io/GCreate/demo/sudoku/)
+The Classic Sudoku is a number placing puzzle based on a 9x9 grid with several given numbers. The object is to place the numbers 1 to 9 in the empty squares so that each row, each column and each 3x3 box contains the same number only once.
+
+Sudoku are easy to learn yet highly addictive language-independent logic puzzles which have recently taken the whole world by storm. Using pure logic and requiring no math to solve, these fascinating puzzles offer endless fun and intellectual entertainment to puzzle fans of all skills and ages.
+
+数独盘面是个九宫，每一宫又分为九个小格。在这八十一格中给出一定的已知数字和解题条件，利用逻辑和推理，在其他的空格上填入1-9的数字。使1-9每个数字在每一行、每一列和每一宫中都只出现一次，所以又称“九宫格”
